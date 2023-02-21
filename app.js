@@ -37,17 +37,7 @@ function changeTab3(e){
     tab3Con.classList.add('show')
 }
 
-// function changeTab(e){
-//     removeShow();
 
-// }
-// function changeTab(e){
-// removeShow();
-
-// const tabContentItem = document.querySelector(`#${this.id}-content`);
-// 	// Add show class
-//      tabContentItem.classList.add('show');
-// }
 
 // Remove show class from all content items
 function removeShow() {
@@ -58,7 +48,7 @@ function removeShow() {
 //event listener
 tabItems.forEach(item=>item.addEventListener('click',SelectItem))
 
-// tabItems.forEach(item=>item.addEventListener('click',changeTab))
+
 
 tab1.addEventListener('click',changeTab1)
 tab2.addEventListener('click',changeTab2)
