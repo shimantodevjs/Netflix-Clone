@@ -2,4 +2,5 @@
 Netflix Clone using HTML CSS and Javascript
 
 
-Demo: https://shimantodevjs.github.io/Netflix-Clone/
+Demo: https://netflix-clone-shimantodevjs.vercel.app/
+
